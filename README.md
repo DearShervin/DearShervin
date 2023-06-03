@@ -1,8 +1,10 @@
 <h2 align="center">Hi 👋! I'm Shervin, ML/WebDev Enthusiast.</h2>
 
 ###
-
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dearshervin)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dearshervin&count={count})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dearshervin&width={width})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dearshervin&unique={true|1|on|yes})
 ###
 
 <div align="left">
