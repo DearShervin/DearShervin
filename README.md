@@ -46,7 +46,6 @@
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dearshervin&width={400})
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dearshervin&count={3})
 
 ###
