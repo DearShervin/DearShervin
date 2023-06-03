@@ -1,10 +1,7 @@
 <h2 align="center">Hi 👋! I'm Shervin, ML/WebDev Enthusiast.</h2>
 
 ###
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dearshervin)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dearshervin&count={count})
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dearshervin&width={width})
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dearshervin&unique={true|1|on|yes})
+
 ###
 
 <div align="left">
@@ -50,9 +47,7 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/DearShervin">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
-  </a>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dearshervin)
 </div>
 
 ###
