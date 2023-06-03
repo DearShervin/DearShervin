@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋! I'm Shervin, ML/WebDev Enthusiast.</h2>
 
 ###
-<div align="right" height="150" class="tenor-gif-embed" data-postid="19968647" data-share-method="host" data-aspect-ratio="1.61616" data-width="100%"><a href="https://tenor.com/view/american-psycho-gif-19968647">American Psycho GIF</a>from <a href="https://tenor.com/search/american+psycho-gifs">American Psycho GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 ###
 
