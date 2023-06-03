@@ -46,8 +46,7 @@
 
 ###
 
-<div align="center">
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dearshervin)
-</div>
+
 
 ###
