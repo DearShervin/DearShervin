@@ -3,7 +3,7 @@
 ###
 - 🔭 I’m currently working on **Matching Energy of Graphs and Multi-Commodity Transportation**
 
-- 🌱 I’m currently learning **TensorFlow, React, MatLab and R**
+- 🌱 I’m currently learning **TensorFlow, React, MATLAB and R**
 
 - 👯 I’m looking to collaborate on **ML Projects**
 
