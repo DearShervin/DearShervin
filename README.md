@@ -40,7 +40,7 @@
 </div>
 
 ###
-
+<h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="discordapp.com/users/Dearshervin#2146" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
@@ -54,11 +54,9 @@
 </div>
 
 ###
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/dearshervin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/dearshervin" height="30" width="40" /></a>
 <a href="https://dev.to/https://dev.to/dearshervin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/dearshervin" height="30" width="40" /></a>
-<a href="https://twitter.com/petersonshervin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="petersonshervin" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/u/dearshervin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/dearshervin" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/shervinpeterson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/shervinpeterson" height="30" width="40" /></a>
 </p>
