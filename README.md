@@ -10,7 +10,8 @@
 - 📫 How to reach me **sherviniranaghideh@gmail.com**
 
 - ⚡ Fun fact **I'm a big Physics nerd and I love Classical music.**
-- ![](american-psycho.gif) **
+
+![](american-psycho.gif)
 ###
 
 <div align="left">
@@ -60,4 +61,3 @@
 <a href="https://codesandbox.com/https://codesandbox.io/u/dearshervin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/dearshervin" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/shervinpeterson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/shervinpeterson" height="30" width="40" /></a>
 </p>
-###
