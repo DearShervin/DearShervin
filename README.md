@@ -10,7 +10,7 @@
 - 📫 How to reach me **sherviniranaghideh@gmail.com**
 
 - ⚡ Fun fact **I'm a big Physics nerd and I love Classical music.**
-![](american-psycho.gif)
+- ![](american-psycho.gif) **
 ###
 
 <div align="left">
