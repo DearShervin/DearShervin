@@ -44,9 +44,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
   <img width="12" />
-  <img href="./icons/piano.png" height="30" alt="Piano"  />
+  <img src="./icons/piano.png" height="30" alt="Piano"  />
   <img width="12" />
-  <img href="./icons/basketball-ball.png" height="30" alt="Basketball"  />
+  <img src="./icons/basketball-ball.png" height="30" alt="Basketball"  />
 </div>
 
 ###
