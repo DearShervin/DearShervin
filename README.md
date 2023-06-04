@@ -42,9 +42,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
   <img width="12" />
-  <img src="./icons/piano.png" height="30" alt="Piano" onmouseover="this.alt='Piano';"  />
+  <img src="./icons/piano.png" height="30" alt="Piano" onmouseover="this.alt='Piano';"  /><p class="piano">Piano<p/>
   <img width="12" />
-  <img src="./icons/basketball-ball.png" height="30" alt="Basketball"  />
+  <img src="./icons/basketball-ball.png" height="30" alt="Basketball"  /><p class="basket">Basketball<p/>
 </div>
 
 ###
@@ -68,3 +68,33 @@
 <a href="https://codesandbox.com/https://codesandbox.io/u/dearshervin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/dearshervin" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/shervinpeterson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/shervinpeterson" height="30" width="40" /></a>
 </p>
+ 
+ <style>
+ .basket {
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  background-color: #ccc;
+  color: #fff;
+  padding: 10px;
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+
+img:hover + .basket {
+  opacity: 1;
+} 
+.piano {
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  background-color: #ccc;
+  color: #fff;
+  padding: 10px;
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+img:hover + .piano {
+  opacity: 1;
+}
+</style>
