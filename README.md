@@ -1,5 +1,7 @@
 <h2 align="center">Hi There👋! I'm Shervin, ML/WebDev Enthusiast.</h2>
-
+<head>
+  <link href="/your-path-to-uicons/css/uicons-[your-style].css" rel="stylesheet">
+</head>
 ###
 - 🔭 I’m currently working on **Matching Energy of Graphs and Multi-Commodity Transportation**
 
@@ -42,7 +44,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
   <img width="12" />
-  <a href="https://www.flaticon.com/free-icons/piano" title="piano icons"></a>
+  <i class="fi piano_8876197"><i/>
 </div>
 
 ###
