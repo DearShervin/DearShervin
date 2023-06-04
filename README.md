@@ -1,7 +1,4 @@
 <h2 align="center">Hi There👋! I'm Shervin, ML/WebDev Enthusiast.</h2>
-<head>
-  <link href="/your-path-to-uicons/css/uicons-[your-style].css" rel="stylesheet">
-</head>
 ###
 - 🔭 I’m currently working on **Matching Energy of Graphs and Multi-Commodity Transportation**
 
