@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TensorFlow, MATLAB and R**
 
-- 👯 I’m looking to collaborate on **ML Research/Projects**
+- 🫱🏻‍🫲🏻 I’m looking to collaborate on **ML Research/Projects**
 
 - 📫 How to reach me **sherviniranaghideh@gmail.com**
 
