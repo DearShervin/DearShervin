@@ -4,16 +4,16 @@
 - 🔭 I’m currently working on **Matching Energy of Graphs**
 
 - 🌱 I’m currently learning **TensorFlow, MATLAB and R**
-
+<!--
 - 🫱🏻‍🫲🏻 I’m looking to collaborate on **ML Research/Projects**
-
+-->
 - 📫 How to reach me **sherviniranaghideh@gmail.com**
 
 - ⚡ Fun fact: **I'm a big Physics nerd and I love Classical music.**
-
+<!--
 ![](american-psycho.gif)
 ###
-
+-->
 <div align="left">
   <h2>Skills: <br><h2/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" title="Python" />
