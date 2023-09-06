@@ -1,7 +1,7 @@
 <h2 align="center">Hi There👋! I'm Shervin, Machine Learning and Artificial Intelligence Enthusiast.</h2>
 
 ###
-- 🔭 I’m currently working on **Matching Energy of Graphs**
+- 🔭 I’m doing research on **Matching Energy of Graphs**
 
 - 🌱 I’m currently learning **TensorFlow, MATLAB and R**
 <!--
