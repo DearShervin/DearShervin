@@ -4,9 +4,9 @@
 - 🔭 I’m doing research on **Matching Energy of Graphs**
 
 - 🌱 I’m currently learning **TensorFlow, MATLAB and R**
-<!--
-- 🫱🏻‍🫲🏻 I’m looking to collaborate on **ML Research/Projects**
--->
+
+- 💡I'm Interested in Natural Language Processing.
+
 - 📫 How to reach me **sherviniranaghideh@gmail.com**
 
 - ⚡ Fun fact: **I'm a big Physics nerd and I love Classical music.**
