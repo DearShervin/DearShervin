@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TensorFlow, MATLAB and R**
 
-- 💡I'm Interested in Natural Language Processing
+- 💡I'm Interested in Natural Language Processing and Computer Vision
 
 - 📫 How to reach me **sherviniranaghideh@gmail.com**
 
