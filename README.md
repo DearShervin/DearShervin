@@ -3,7 +3,7 @@
 ###
 - 🔭 I’m doing research on **Matching Energy of Graphs**
 
-- 🌱 I’m currently learning **TensorFlow, MATLAB and R**
+- 🌱 I’m currently learning **TensorFlow, Pytorch and MATLAB**
 
 - 💡I'm Interested in Natural Language Processing and Computer Vision
 
