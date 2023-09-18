@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact: **I'm a big Physics nerd and I love Classical music.**
 
-![](techny-artificial-intelligence-on-tablet-screen.gif) 
+![](techny-artificial-intelligence-on-tablet-screen.gif=250x250) 
 ###
 <!--
 ![](american-psycho.gif)
