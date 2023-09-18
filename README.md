@@ -25,7 +25,7 @@
 ![](american-psycho.gif)
 ###
 -->
-<div align="left">
+<div align="center">
   <h2>Skills: <br><h2/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" title="Python" />
   <img width="12" />
