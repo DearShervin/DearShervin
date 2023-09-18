@@ -17,10 +17,11 @@
 <img src="techny-artificial-intelligence-on-tablet-screen.gif" width="auto" height="200"/>
 <img src="glare-artificial-intelligence-brain-on-silicon-chip-2.png" width="auto" height="200"/>
 </div>
-  <!--
+<!--
 ![](techny-artificial-intelligence-on-tablet-screen.gif)
 ###
-
+-->
+<!--
 ![](american-psycho.gif)
 ###
 -->
