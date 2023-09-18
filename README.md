@@ -11,7 +11,8 @@
 
 - ⚡ Fun fact: **I'm a big Physics nerd and I love Classical music.**
 
-![AI Gif](https://github.com/DearShervin/DearShervin/techny-artificial-intelligence-on-tablet-screen.gif)
+###
+![AI Gif](techny-artificial-intelligence-on-tablet-screen.gif)
 
 <!--
 ![](techny-artificial-intelligence-on-tablet-screen.gif)
