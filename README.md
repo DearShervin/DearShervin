@@ -12,7 +12,7 @@
 - ⚡ Fun fact: **I'm a big Physics nerd and I love Classical music.**
 
 ###
-<div style="display: flex;">
+<div style="display: flex; justify-content: center; align-item: space-evenly;">
 <img src="glare-isometric-desktop-with-devices-and-a-mug-1.png" width="auto" height="200"/>
 <img src="techny-artificial-intelligence-on-tablet-screen.gif" width="auto" height="200"/>
 <img src="glare-artificial-intelligence-brain-on-silicon-chip-2.png" width="auto" height="200"/>
