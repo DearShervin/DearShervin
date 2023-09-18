@@ -10,8 +10,10 @@
 - 📫 How to reach me **sherviniranaghideh@gmail.com**
 
 - ⚡ Fun fact: **I'm a big Physics nerd and I love Classical music.**
-techny-artificial-intelligence-on-tablet-screen.gif
-<img src="techny-artificial-intelligence-on-tablet-screen.gif">
+
+![AI Gif](techny-artificial-intelligence-on-tablet-screen.gif =150x150)
+###
+
 <!--
 ![](techny-artificial-intelligence-on-tablet-screen.gif)
 ###
