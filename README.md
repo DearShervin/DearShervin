@@ -1,11 +1,9 @@
 <h2 align="center">Hi There👋! I'm Shervin, Machine Learning and Artificial Intelligence Enthusiast.</h2>
 
 ###
-- 🔭 I’m doing research on **Matching Energy of Graphs**
-
 - 🌱 I’m currently learning **TensorFlow, Pytorch and MATLAB**
 
-- 💡I'm Interested in Natural Language Processing and Computer Vision
+- 💡I'm Interested in **Natural Language Processing and Computer Vision**
 
 - 📫 How to reach me **sherviniranaghideh@gmail.com**
 
