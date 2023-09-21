@@ -15,14 +15,7 @@
 <img src="techny-artificial-intelligence-on-tablet-screen.gif" width="auto" height="200"/>
 <img src="glare-artificial-intelligence-brain-on-silicon-chip-2.png" width="auto" height="200"/>
 </p>
-<!--
-![](techny-artificial-intelligence-on-tablet-screen.gif)
-###
--->
-<!--
-![](american-psycho.gif)
-###
--->
+
 <div align="center">
   <h2>Skills: <br><h2/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" title="Python" />
@@ -63,17 +56,6 @@
   <a href="https://mail.google.com/sherviniranaghideh@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-<!--   <a href="" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
-  </a> -->
 </div>
 
 ###
-<!--
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/dearshervin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/dearshervin" height="30" width="40" /></a>
-<a href="https://dev.to/https://dev.to/dearshervin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/dearshervin" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/dearshervin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/dearshervin" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/shervinpeterson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/shervinpeterson" height="30" width="40" /></a>
-</p>
--->
