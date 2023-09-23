@@ -1,6 +1,6 @@
 <h2 align="center">Hi There👋! I'm Shervin, NLP Enthusiast.</h2>
 <p align="center">
-<img src="Designer (2).png" width="auto" height="450"/>
+<img src="Designer (2).png" width="auto" height="400"/>
 </p>
 
 <div align="center">
