@@ -17,7 +17,6 @@
 </p>
 
 <div align="center">
-  <h2>Skills: <br><h2/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" title="Python" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" title="Pandas" />
@@ -52,8 +51,7 @@
 </div>
 
 ###
-<h3 align="left">Connect with me:</h3>
-<div align="left">
+<div align="center">
   <a href="https://discord.gg/jmzhGhq7" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
