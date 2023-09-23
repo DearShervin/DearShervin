@@ -11,7 +11,7 @@
 
 ###
 <p align="center">
-<img src="Designer (2).png" width="auto" height="550"/>
+<img src="Designer (2).png" width="auto" height="500"/>
 <!-- <img src="techny-artificial-intelligence-on-tablet-screen.gif" width="auto" height="200"/> -->
 <!-- <img src="glare-artificial-intelligence-brain-on-silicon-chip-2.png" width="auto" height="200"/> -->
 </p>
