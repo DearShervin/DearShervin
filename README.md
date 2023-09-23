@@ -1,19 +1,6 @@
-<h2 align="center">Hi There👋! I'm Shervin, Machine Learning and Artificial Intelligence Enthusiast.</h2>
-
-###
-- 🌱 I’m currently learning **TensorFlow, Pytorch and MATLAB**
-
-- 💡I'm Interested in **Natural Language Processing and Computer Vision**
-
-- 📫 How to reach me **sherviniranaghideh@gmail.com**
-
-- ⚡ Fun fact: **I'm a big Physics nerd and I love Classical music.**
-
-###
+<h2 align="center">Hi There👋! I'm Shervin, NLP Enthusiast.</h2>
 <p align="center">
 <img src="Designer (2).png" width="auto" height="450"/>
-<!-- <img src="techny-artificial-intelligence-on-tablet-screen.gif" width="auto" height="200"/> -->
-<!-- <img src="glare-artificial-intelligence-brain-on-silicon-chip-2.png" width="auto" height="200"/> -->
 </p>
 
 <div align="center">
@@ -48,6 +35,14 @@
   <img src="./icons/piano.png" height="30" alt="Piano" title="Piano"  />
   <img width="10" />
   <img src="./icons/basketball-ball.png" height="30" alt="Basketball" title="Basketball" />
+</div>
+<br>
+<div align="center">
+ ☕ I’m currently learning TensorFlow, Pytorch and MATLAB
+  <br>
+ 💡 I'm Interested in Natural Language Processing and Computer Vision
+ 
+ ⚡ Fun fact: I'm a big Physics nerd and I love Classical music.
 </div>
 
 ###
