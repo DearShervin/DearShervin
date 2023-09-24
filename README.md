@@ -1,4 +1,4 @@
-<h2 align="center">Hi There👋! I'm Shervin, NLP Enthusiast.</h2>
+<h1 align="center">Hi There👋!</h1>
 <p align="center">
 <img src="Designer (2).png" width="auto" height="400"/>
 </p>
