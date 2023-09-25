@@ -1,4 +1,4 @@
-<h1 align="center">Hi There👋!</h1>
+<h2 align="center">Hi There👋!</h2>
 <p align="center">
 <img src="Designer (2).png" width="auto" height="400"/>
 </p>
