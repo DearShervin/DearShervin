@@ -1,6 +1,8 @@
 <h1 align="center">Welcome!👋🏻</h1>
 
 <div align="center">
+ 🤓 I'm a ML, NLP and CV enthusiast
+ <br>
  ☕ I’m currently learning TensorFlow, Pytorch and MATLAB
   <br>
  💡 I'm Interested in Natural Language Processing and Computer Vision
