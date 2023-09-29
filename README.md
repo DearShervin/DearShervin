@@ -1,4 +1,4 @@
-<h1 align="center">Welcome👋!</h1>
+<h1 align="center">Welcome!👋🏻</h1>
 
 <div align="center">
  ☕ I’m currently learning TensorFlow, Pytorch and MATLAB
