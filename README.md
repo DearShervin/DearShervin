@@ -4,6 +4,8 @@
  ☕ I’m currently learning TensorFlow, Pytorch and MATLAB
   <br>
  💡 I'm Interested in Natural Language Processing and Computer Vision
+ <br>
+ 🤙🏻 Feel free to contact me!
 </div>
 
 
