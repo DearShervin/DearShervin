@@ -1,7 +1,9 @@
 <h2 align="center">Hi There👋!</h2>
 <p align="center">
-<img src="Designer (2).png" width="auto" height="400"/>
+<img src="glare-isometric-desktop-with-devices-and-a-mug-1.png" width="auto" height="400"/>
 </p>
+
+<!-- <img src="Designer (2).png" width="auto" height="400"/> -->
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" title="Python" />
