@@ -1,9 +1,19 @@
 <h2 align="center">Hi There👋!</h2>
+
+<div align="center">
+ ☕ I’m currently learning TensorFlow, Pytorch and MATLAB
+  <br>
+ 💡 I'm Interested in Natural Language Processing and Computer Vision
+</div>
+
+
 <p align="center">
 <img src="glare-isometric-desktop-with-devices-and-a-mug-1.png" width="auto" height="400"/>
 </p>
 
-<!-- <img src="Designer (2).png" width="auto" height="400"/> -->
+<!-- <img src="Designer (2).png" width="auto" height="400"/> 
+ ⚡ Fun fact: I'm a big Physics nerd and I love Classical music.
+-->
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" title="Python" />
@@ -39,13 +49,6 @@
   <img src="./icons/basketball-ball.png" height="30" alt="Basketball" title="Basketball" />
 </div>
 <br>
-<div align="center">
- ☕ I’m currently learning TensorFlow, Pytorch and MATLAB
-  <br>
- 💡 I'm Interested in Natural Language Processing and Computer Vision
- 
- ⚡ Fun fact: I'm a big Physics nerd and I love Classical music.
-</div>
 
 ###
 <div align="center">
