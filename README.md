@@ -1,11 +1,11 @@
 <h1 align="center">Welcome!👋🏻</h1>
 
 <div align="center">
- 🤓 I'm a ML & AI enthusiast
+ 🤓 ML & AI enthusiast
  <br>
- ☕ I’m currently learning TensorFlow, Pytorch and MATLAB
+ ☕ Currently learning TensorFlow, Pytorch and MATLAB
   <br>
- 💡 I'm Interested in Natural Language Processing and Computer Vision
+ 💡 Interested in Natural Language Processing and Computer Vision
  <br>
  🤙🏻 Feel free to contact me!
 </div>
@@ -16,7 +16,6 @@
 </p>
 
 <!-- <img src="Designer (2).png" width="auto" height="400"/> 
- ⚡ Fun fact: I'm a big Physics nerd and I love Classical music.
 -->
 
 <div align="center">
