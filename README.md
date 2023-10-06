@@ -3,8 +3,6 @@
 <div align="center">
  🤓 ML & AI enthusiast
  <br>
- ☕ Currently learning TensorFlow, Pytorch and MATLAB
-  <br>
  💡 Interested in Natural Language Processing and Computer Vision
  <br>
  🤙🏻 Feel free to contact me!
