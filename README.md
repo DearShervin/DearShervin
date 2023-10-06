@@ -10,7 +10,7 @@
 
 
 <p align="center">
-<img src="glare-isometric-desktop-with-devices-and-a-mug-1.png" width="auto" height="400"/>
+<img src="_73e3a82c-de1e-421e-8342-ba609e2c054b.jpeg" width="auto" height="350"/>
 </p>
 
 <!-- <img src="Designer (2).png" width="auto" height="400"/> 
