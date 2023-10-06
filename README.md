@@ -8,7 +8,7 @@
  🤙🏻 Feel free to contact me!
 </div>
 
-
+<br>
 <p align="center">
 <img src="_73e3a82c-de1e-421e-8342-ba609e2c054b.jpeg" width="auto" height="350"/>
 </p>
@@ -54,10 +54,10 @@
 ###
 <div align="center">
   <a href="https://discord.gg/jmzhGhq7" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo" />
   </a>
   <a href="mailto:contact@shervinofficial.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
 </div>
 
@@ -66,8 +66,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dearshervin&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="180" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dearshervin&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=dearshervin&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="130" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dearshervin&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=dracula&hide_border=false" height="130" alt="languages graph"  />
 </div>
 
 ###
