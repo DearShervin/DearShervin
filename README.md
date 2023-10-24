@@ -1,20 +1,10 @@
 <h1 align="center">Welcome!👋🏻</h1>
 
-<div align="center">
- 🤓 ML & AI enthusiast
- <br>
- 💡 Interested in Natural Language Processing and Computer Vision
- <br>
- 🤙🏻 Feel free to contact me!
-</div>
-
 <br>
 <p align="center">
-<img src="_73e3a82c-de1e-421e-8342-ba609e2c054b.jpeg" width="auto" height="350"/>
+<img src="_73e3a82c-de1e-421e-8342-ba609e2c054b.jpeg" width="auto" height="300"/>
 </p>
 
-<!-- <img src="Designer (2).png" width="auto" height="400"/> 
--->
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" title="Python" />
@@ -52,6 +42,10 @@
 <br>
 
 ###
+<div align="center">
+ 🤙🏻 Feel free to contact me!
+</div>
+<br>
 <div align="center">
   <a href="https://discord.gg/jmzhGhq7" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo" />
