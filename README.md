@@ -40,8 +40,6 @@
   <img src="./icons/basketball-ball.png" height="30" alt="Basketball" title="Basketball" />
 </div>
 <br>
-
-###
 <div align="center">
  🤙🏻 Feel free to contact me!
 </div>
