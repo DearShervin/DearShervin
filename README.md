@@ -2,6 +2,7 @@
 
 <br>
 <p align="center">
+ML/NLP fervid & Art dilettante
 <img src="_73e3a82c-de1e-421e-8342-ba609e2c054b.jpeg" width="auto" height="300"/>
 </p>
 
