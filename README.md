@@ -39,6 +39,9 @@
 </div>
 <br>
 <div align="center">
+ 🫱🏻‍🫲🏻 I'm down to collaborate on Machine Learning or NLP projects.
+</div>
+<div align="center">
  🤙🏻 Feel free to contact me!
 </div>
 <br>
