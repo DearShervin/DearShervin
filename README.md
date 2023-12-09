@@ -1,5 +1,4 @@
 <h1 align="center">Welcome!👋🏻</h1>
-<h3 align="center">ML/NLP fervent & Art dilettante</h3>
 <p align="center">
 <img src="_609011e3-7842-489b-902f-b486e258ee83.jpeg" width="auto" height="480"/>
 </p>
