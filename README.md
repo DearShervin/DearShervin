@@ -29,10 +29,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" title="React" />
   <img width="10" />
+  <!--
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo" title="MATLAB" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo" title="R" />
-  <img width="10" />
+  <img width="10" /> -->
   <img src="./icons/piano.png" height="30" alt="Piano" title="Piano"  />
   <img width="10" />
   <img src="./icons/basketball-ball.png" height="30" alt="Basketball" title="Basketball" />
