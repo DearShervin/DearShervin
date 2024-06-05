@@ -1,3 +1,4 @@
+<!--
 <h1 align="center">Welcome!👋🏻</h1>
 <p align="center">
 <img src="_609011e3-7842-489b-902f-b486e258ee83.jpeg" width="auto" height="480"/>
@@ -37,6 +38,7 @@
   <img src="./icons/piano.png" height="30" alt="Piano" title="Piano"  />
   <img width="10" />
   <img src="./icons/basketball-ball.png" height="30" alt="Basketball" title="Basketball" /> -->
+<!--
 </div>
 <br>
 <div align="center">
@@ -62,3 +64,4 @@
 ###
 [![](https://visitcount.itsvg.in/api?id=DearShervin&label=Profile%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
 ###
+-->
