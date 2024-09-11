@@ -1,7 +1,10 @@
-<!--
+
 <h1 align="center">Welcome!👋🏻</h1>
 <p align="center">
-<img src="_609011e3-7842-489b-902f-b486e258ee83.jpeg" width="auto" height="480"/>
+I love Natural Language Processing and Diffusion Models. 
+</p>
+<p align="center">
+  <img src="photo_2024-05-30_10-53-20.jpg" width="auto" height="400"/>
 </p>
 
 
@@ -30,7 +33,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" title="React" />
   <img width="10" />
-  <!--
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo" title="MATLAB" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo" title="R" />
@@ -38,11 +41,11 @@
   <img src="./icons/piano.png" height="30" alt="Piano" title="Piano"  />
   <img width="10" />
   <img src="./icons/basketball-ball.png" height="30" alt="Basketball" title="Basketball" /> -->
-<!--
+
 </div>
 <br>
 <div align="center">
- 🫱🏻‍🫲🏻 I'm down to collaborate on Machine Learning or NLP projects.
+ 🫱🏻‍🫲🏻 I'm down to collaborate on related projects.
 </div>
 <div align="center">
  🤙🏻 Feel free to contact me!
@@ -56,12 +59,12 @@
   <img src="https://streak-stats.demolab.com?user=dearshervin&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="130" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dearshervin&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=dracula&hide_border=false" height="130" alt="languages graph"  />
 </div>
-
+<!--
 <p align="center">
-<img src="photo_2024-05-30_10-53-20.jpg" width="auto" height="400"/>
+<img src="_609011e3-7842-489b-902f-b486e258ee83.jpeg" width="auto" height="480"/>
 </p>
-
+<!--
 ###
 [![](https://visitcount.itsvg.in/api?id=DearShervin&label=Profile%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
 ###
--->
+
