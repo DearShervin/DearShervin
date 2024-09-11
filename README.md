@@ -40,7 +40,7 @@ I love Natural Language Processing and Diffusion Models.
   <img width="10" /> 
   <img src="./icons/piano.png" height="30" alt="Piano" title="Piano"  />
   <img width="10" />
-  <img src="./icons/basketball-ball.png" height="30" alt="Basketball" title="Basketball" /> -->
+  <img src="./icons/basketball-ball.png" height="30" alt="Basketball" title="Basketball" />
 
 </div>
 <br>
