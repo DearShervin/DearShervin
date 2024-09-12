@@ -1,7 +1,7 @@
 
 <h1 align="center">Welcome!👋🏻</h1>
 <p align="center">
-I love Natural Language Processing and Diffusion Models. 
+I'm interested in Natural Language Processing and Diffusion Models. 
 </p>
 <p align="center">
   <img src="photo_2024-05-30_10-53-20.jpg" width="auto" height="400"/>
