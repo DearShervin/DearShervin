@@ -7,7 +7,7 @@ I'm interested in Natural Language Processing and Diffusion Models.
   <img src="photo_2024-05-30_10-53-20.jpg" width="auto" height="400"/>
 </p>
 
-
+<!--
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" title="Python" />
   <img width="12" />
@@ -43,6 +43,12 @@ I'm interested in Natural Language Processing and Diffusion Models.
   <img src="./icons/basketball-ball.png" height="30" alt="Basketball" title="Basketball" />
 
 </div>
+-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,go,js,html,css,react,nextjs,c,docker,figma,latex,pycharm,webstorm" />
+  </a>
+</p>
 <br>
 <div align="center">
  🫱🏻‍🫲🏻 I'm down to collaborate on related projects.
