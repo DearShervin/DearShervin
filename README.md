@@ -46,7 +46,7 @@ I'm interested in Natural Language Processing and Diffusion Models.
 -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,go,js,html,css,react,nextjs,c,docker,figma,latex,pycharm,webstorm" />
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,go,js,html,css,react,nextjs,c,docker,figma,latex" />
   </a>
 </p>
 <br>
