@@ -1,8 +1,9 @@
-<!--
+
 <h1 align="center">Welcome!👋🏻</h1>
 <p align="center">
-I'm interested in Natural Language Processing and Diffusion Models. 
+I'm obsessed with <b>Language Models</b>, <b>Diffusion Models</b> and <b>Neural Networks</b>.
 </p>
+<!--
 <p align="center">
   <img src="photo_2024-05-30_10-53-20.jpg" width="auto" height="400"/>
 </p>
@@ -44,19 +45,16 @@ I'm interested in Natural Language Processing and Diffusion Models.
 
 </div>
 -->
-<!--
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,go,js,html,css,react,nextjs,c,docker,figma,latex" />
   </a>
 </p>
-<br>
-<div align="center">
- 🫱🏻‍🫲🏻 I'm down to collaborate on related projects.
-</div>
 <div align="center">
  🤙🏻 Feel free to contact me!
 </div>
+<br>
 <div align="center">
 <a href="mailto:sherviniranaghideh@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
@@ -66,11 +64,11 @@ I'm interested in Natural Language Processing and Diffusion Models.
   <img src="https://streak-stats.demolab.com?user=dearshervin&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="130" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dearshervin&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=dracula&hide_border=false" height="130" alt="languages graph"  />
 </div>
-<!--
+
 <p align="center">
 <img src="_609011e3-7842-489b-902f-b486e258ee83.jpeg" width="auto" height="480"/>
 </p>
-<!--
+
 ###
 [![](https://visitcount.itsvg.in/api?id=DearShervin&label=Profile%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
 ###
