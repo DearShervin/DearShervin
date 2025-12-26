@@ -1,5 +1,5 @@
 
-<h1 align="center">Howdy!👋🏻</h1>
+<h1 align="center">Hello!👋🏻</h1>
 <p align="center">
 I'm obsessed with <b>Language Models</b>, <b>Diffusion Models</b> and <b>Neural Networks</b>.
 </p>
