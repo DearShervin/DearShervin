@@ -55,11 +55,11 @@ I'm obsessed with <b>Language Models</b>, <b>Diffusion Models</b> and <b>Neural 
  🤙🏻 Feel free to contact me!
 </div>
 <br>
-<div align="center">
+<!-- <div align="center">
 <a href="mailto:sherviniranaghideh@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
-</div> <!--
+</div> 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=dearshervin&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="130" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dearshervin&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=dracula&hide_border=false" height="130" alt="languages graph"  />
